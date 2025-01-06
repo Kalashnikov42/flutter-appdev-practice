@@ -160,7 +160,7 @@ class _ChatPageState extends State<ChatPage> {
 
       final model = GenerativeModel(
         model: 'gemini-pro',
-        apiKey: 'AIzaSyCyhepC9HSJbbCkWD67GVkGOjEk-Vf945Q',
+        apiKey:'APIKEY HERE',
       );
 
       final prompt = controller.text;
